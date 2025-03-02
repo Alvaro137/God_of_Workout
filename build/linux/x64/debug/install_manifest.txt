@@ -1,0 +1,17 @@
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/gow_v3
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/lib/libsqlite3_flutter_libs_plugin.so
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/data/flutter_assets/assets/app.db
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z

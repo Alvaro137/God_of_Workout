@@ -1,0 +1,21 @@
+# ninja log v6
+8682	8753	1740487905673893171	/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-configure	3f6b5231e487ad75
+8544	8681	1740487905602889834	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-patch	b58b36ece9aacea4
+9140	9377	1740487906295922411	CMakeFiles/sqlite3-populate-complete	67ba8b6df3b35224
+8352	8544	1740487905451882736	/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-update	d49af960d21c9d98
+8840	8913	1740487905832900646	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-install	d13c9a5f74cf1cb4
+8682	8753	1740487905673893171	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-configure	3f6b5231e487ad75
+8840	8913	1740487905832900646	/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-install	d13c9a5f74cf1cb4
+8913	9140	1740487906050910894	/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-test	be8433f850244dfa
+9140	9377	1740487906295922411	/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-done	67ba8b6df3b35224
+8352	8544	1740487905451882736	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-update	d49af960d21c9d98
+8913	9140	1740487906050910894	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-test	be8433f850244dfa
+8753	8839	1740487905751896838	/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-build	4f63eba3b83ae7d6
+8753	8839	1740487905751896838	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-build	4f63eba3b83ae7d6
+8544	8681	1740487905602889834	/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-patch	b58b36ece9aacea4
+25	457	1740252371428777644	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-mkdir	273a82a162ec7d3b
+9140	9377	1740487906295922411	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-done	67ba8b6df3b35224
+25	457	1740252371428777644	/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-mkdir	273a82a162ec7d3b
+3	8352	1740487905264873945	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-download	4820e5f9737c65cd
+9140	9377	1740487906295922411	/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate-complete	67ba8b6df3b35224
+3	8352	1740487905264873945	/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-download	4820e5f9737c65cd
