@@ -1,3 +1,0 @@
-/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate.dir
-/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/_deps/sqlite3-subbuild/CMakeFiles/edit_cache.dir
-/home/varo/Documentos/Flutterdev/gow_v3/build/linux/x64/debug/_deps/sqlite3-subbuild/CMakeFiles/rebuild_cache.dir
